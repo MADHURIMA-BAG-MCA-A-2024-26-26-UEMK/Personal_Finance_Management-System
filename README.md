@@ -83,7 +83,4 @@ The Personal Finance Management System is an application developed using Java Sw
 4. Monitor your financial status through the provided charts and summaries.
 
 ## Contributors
-- [Onkar Mendhapurkar](https://github.com/onkar69483)
-- [Mihir Hebalkar](https://github.com/mihirhebalkar)
-- [Sachin Mhetre](https://github.com/SachinMhetre678)
-- [Parimal Kulkarni](https://github.com/parimal1009)
+- MADHURIMA BAG
