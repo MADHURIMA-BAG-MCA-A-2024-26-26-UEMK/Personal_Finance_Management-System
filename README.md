@@ -4,7 +4,7 @@
 The Personal Finance Management System is an application developed using Java Swing on Apache NetBeans IDE and Xmpp for Database Management. This system enables users to monitor their financial habits, track previous transactions, and visualize monthly financial data using charts.
 
 ## Software Used
-- **IDE:** Apache NetBeans
+- **IDE:** Apache NetBeans 
 - **Database:** Xmpp
 - **Java UI Framework:** Java Swing
 - **Chart Library:** XChart
