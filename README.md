@@ -8,7 +8,7 @@ The Personal Finance Management System is an application developed using Java Sw
 - **Database:** Xmpp
 - **Java UI Framework:** Java Swing
 - **Chart Library:** XChart
-
+ 
 ## Features
 1. **Account Management:** Users can create and manage multiple accounts to meet their financial needs.
 2. **Summarized Display:** Provides users with a clear overview of their financial status, including current savings and spending habits.
